@@ -1,6 +1,6 @@
 # rsschool-cv
 ---
-![photo](https://github.com/ramamike/rsschool-cv/blob/main/photo.jpg)
+![photo](https://ramamike.github.io/rsschool-cv/photo.jpg)
 
 ---
 ## Mikhail Ramanenka
