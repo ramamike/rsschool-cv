@@ -1,8 +1,7 @@
 # rsschool-cv
 ---
-![photo](https://ramamike.github.io/rsschool-cv/photo.jpg)
+<img src="https://ramamike.github.io/rsschool-cv/photo.jpg" width="200" />
 
----
 ## Mikhail Ramanenka
 ---
 ### Junior Frontend Developer
